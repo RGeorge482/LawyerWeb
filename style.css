@@ -130,3 +130,43 @@ h4{
 	font-size: 18px;
 	margin-bottom: 45px;
 }
+
+button{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s;
+}
+button:hover{
+	color: #2c2c2c;
+	font-size: 15px;
+	cursor: pointer;
+	background-color: #f33333;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(247, 30, 41);
+  -moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+  box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+}
+
+.info{
+	height: 430px;
+	background-image: url(../img/info-foto.png);
+	background-size: cover;
+}
+
+.info p{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 50px;
+	padding-top: 60px;
+}
+
+.service{
+	background: #b9b9b9;
+	width: 100%;
+	padding: 100px 0px;
+}
