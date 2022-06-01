@@ -233,3 +233,38 @@ h5{
   -moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
   box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 }
+
+.contact-me{
+	width: 100%;
+	height: 400px;
+	background-image: url(../img/l2.png);
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+.contact-me p{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.contact-me .button-two{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s;
+	margin-bottom: 220px;
+}
+.contact-me .button-two:hover{
+	cursor: pointer;
+	background-color: #f33333;
+  -webkit-box-shadow: 10px 10px 99px 6px rgb(168, 166, 165);
+  -moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+  box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+}
