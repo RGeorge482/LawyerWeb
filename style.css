@@ -312,3 +312,34 @@ footer p{
 	bottom: 35px;
 	font-size: 14px;
 }
+
+@media screen and (max-width: 600px) {
+	*{
+		padding: 0;
+		margin: 0;
+		font-family: 'Josefin Sans', sans-serif;
+		box-sizing: border-box;
+	}
+	.nav_bar{
+		width: auto;
+		background-image: url(../img/header-foto-media.png);
+		background-size: cover;
+		background-position: center;
+	}
+	nav{
+		display: grid;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+	}
+	.logo{
+		display: none;
+	}
+	#logo1{
+		display: none;
+	}
+
+
+	
+
+}
