@@ -340,6 +340,25 @@ footer p{
 	}
 
 
+	nav ul li{
+		list-style-type: none;
+		width: 100%;
+		border: 2px solid white;
+		padding: 10px;
+		border-radius: 30px;
+		margin: 5px;
+	}
+	nav ul li a{
+		color: white;
+		text-decoration: none;
+		font-weight: bold;
+		text-transform: capitalize;
+	}
+	nav ul li a:hover{
+		color: #f9004d;
+		transition: .4s;
+	}
+
 	
 
 }
