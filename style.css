@@ -394,6 +394,27 @@ footer p{
 		-moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 		box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 	}
+	
+		.content{
+		position: relative;
+		top: 5%;
+		left:8%;
+	}
+	h1{
+		color: white;
+		margin: 10px 0px 10px;
+		font-size: 20px;
+	}
+	h3{
+		color: white;
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+	h4{
+		color: white;
+		letter-spacing: 2px;
+		font-size: 15px;
+	}
 
 	
 
