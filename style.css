@@ -416,6 +416,19 @@ footer p{
 		font-size: 15px;
 	}
 
-	
+		.about{
+		width: 100%;
+		padding: 5px;
+		background-color: #dbdbdb;
+
+	}
+	.about img{
+		height: auto;
+		max-width: 130px;
+		margin-left: 85px;
+	}
+	.about-text{
+		width: 350px;
+	}
 
 }
