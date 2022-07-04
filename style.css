@@ -430,5 +430,21 @@ footer p{
 	.about-text{
 		width: 350px;
 	}
+	
+		.main{
+		display: grid;
+		width: 100%;
+		margin: 10;
+		align-items: center;
+	}
+	.about-text h2{
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+	.about-text p{
+		letter-spacing: 1px;
+		line-height: 18px;
+		font-size: 12px;
+		margin-bottom: 25px;
 
 }
