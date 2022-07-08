@@ -446,5 +446,26 @@ footer p{
 		line-height: 18px;
 		font-size: 12px;
 		margin-bottom: 25px;
+	}
+		button{
+		background-color:#f9004d;
+		color: white;
+		text-decoration: none;
+		border: 2px solid transparent;
+		font-weight: bold;
+		padding: 13px 30px;
+		border-radius: 30px;
+		transition: .4s;
+		width: 100%;
+	}
+	button:hover{
+		color: #2c2c2c;
+		font-size: 15px;
+		cursor: pointer;
+		background-color: #f33333;
+		-webkit-box-shadow: 10px 10px 99px 6px rgb(247, 30, 41);
+		-moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+		box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+	}
 
 }
