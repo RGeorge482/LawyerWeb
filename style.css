@@ -467,5 +467,18 @@ footer p{
 		-moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 		box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 	}
+	
+		.info{
+		display: none;
+	}
+
+	.service{
+		background: #b9b9b9;
+	}
+	.title h2{
+		color: white;
+		font-size: 25px;
+		margin-left: 100px;
+		margin-bottom: 50px;
 
 }
