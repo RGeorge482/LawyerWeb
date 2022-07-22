@@ -519,5 +519,22 @@ footer p{
 		-moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 		box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
 	}
+	
+		.box{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 100px;
+	}
+	.card{
+		height: 200px;
+		width: 160px;
+		background: #666666;
+		border-radius: 20px;
+		margin: 5px;
+		position: relative;
+		overflow: hidden;
+		text-align: center;
+	}
 
 }
