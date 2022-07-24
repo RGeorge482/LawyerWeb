@@ -536,5 +536,18 @@ footer p{
 		overflow: hidden;
 		text-align: center;
 	}
+	
+	.card i{
+		font-size: 15px;
+		display: block;
+		text-align: center;
+		margin: 1px;
+		color: #f9004d;
+	}
+	h5{
+		color: white;
+		font-size: 10px;
+		margin-bottom: 10px;
+	}
 
 }
