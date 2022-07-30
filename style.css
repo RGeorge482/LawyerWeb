@@ -566,5 +566,17 @@ footer p{
 		border-radius: 30px;
 		transition: .4s;
 	}
+	
+		.card .button:hover{
+		border: 2px solid #f9004d;
+		cursor: pointer;
+		background-color: #f33333;
+		-webkit-box-shadow: 10px 10px 99px 6px rgb(247, 30, 41);
+		-moz-box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+		box-shadow: 10px 10px 99px 6px rgba(247, 30, 41);
+	}
+	.contact-me{
+		display: none;
+	}
 
 }
