@@ -578,5 +578,23 @@ footer p{
 	.contact-me{
 		display: none;
 	}
+	
+	footer {
+		position: relative;
+		width: 100%;
+		height: 400px;
+		background: #9c9c9c;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+	
+	footer p{
+		font-size: 15px;
+		margin-bottom: 15px;
+		font-weight: bold;
+		text-align: center;
+	}
 
 }
